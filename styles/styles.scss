@@ -234,7 +234,7 @@ body{
         }
     }
     @media only screen and (max-width: 600px) {
-
+        overflow: hidden;
         .header{
             margin-bottom: 3rem;
             font-size: 0.75rem;
@@ -291,6 +291,7 @@ body{
             
             .button{
                 margin-top: 1.5rem;
+                margin-bottom:1.5rem;
             }
         }
       }    
