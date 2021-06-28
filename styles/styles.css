@@ -228,10 +228,22 @@ body {
   color: #858fad;
   font-size: 0.85rem;
   line-height: 1.7rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding-bottom: 2rem;
 }
 
 .container .perks ul span {
   padding-right: 1rem;
+}
+
+.container .perks ul svg {
+  margin-right: 0.5rem;
 }
 
 .container .perks .button-container {
