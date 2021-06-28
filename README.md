@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://www.frontendmentor.io/solutions/html-css-js-sass-grid-VPKkuWfRJ)
-- Live Site URL: [](https://janssenhidal.github.io/Interactive-Pricing/)
+- Live Site URL: [https://janssenhidal.github.io/Interactive-Pricing/]
 
 
 ### Built with
@@ -38,3 +38,4 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JS
