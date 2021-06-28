@@ -238,8 +238,8 @@ body {
   padding-bottom: 2rem;
 }
 
-.container .perks ul span {
-  padding-right: 1rem;
+.container .perks ul li {
+  list-style: none;
 }
 
 .container .perks ul svg {
