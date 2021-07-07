@@ -39,7 +39,7 @@ body {
 .container .header .circles {
   position: absolute;
   z-index: -1;
-  top: 5.5rem;
+  top: 4.5rem;
   left: 50%;
   -webkit-transform: translate(-50%, 50%);
           transform: translate(-50%, 50%);

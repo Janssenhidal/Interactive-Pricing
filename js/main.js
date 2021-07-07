@@ -11,7 +11,7 @@ slider.oninput = function () {
     let views = 50 + 25 * this.value;
 
     if (toggler.classList.contains('checked')) {
-        price *= 1.25;
+        price *= 0.75;
     }
 
     outputPrice.innerHTML = `$ ${price}.00`;
